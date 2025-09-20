@@ -27,7 +27,7 @@ The app is designed to make learning fun and engaging. 🚀
 ## ⚙️ Installation & Usage
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/customize-quiz-app.git
+git clone https://github.com/nehayadav-25/customize-quiz-app.git
 
 # Navigate into folder
 cd customize-quiz-app
